@@ -1,3 +1,5 @@
+
+
 .bg-usu-nav
 {
     background: #121f3d;
@@ -40,6 +42,11 @@ footer a:hover
 
 #carouselExampleCaptions img
 {
+    height: 40vh;
+    object-fit: cover;
+}
+
+.card img{  
     height: 40vh;
     object-fit: cover;
 }
